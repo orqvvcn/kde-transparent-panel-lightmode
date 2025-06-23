@@ -12,7 +12,7 @@ this is for the default theme panel kde plasma
  
 ```bash
 git clone https://github.com/orqvvcn/kde-transparent-panel-lightmode.git
-cd kde-transparent-panel-darkmode
+cd kde-transparent-panel-lightmode
 ```
 
 
