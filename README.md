@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/a0794b7f-2906-44d9-b84a-1a9f5a727aef
 
 this is for the default theme panel kde plasma 
 
-install 
+
 
 ## install
 
